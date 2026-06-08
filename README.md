@@ -8,7 +8,7 @@ Zaman çizelgesi tabanlı arayüzden doğrudan **PDF çıktısı** üretir.
 ## PDF Çıktısı
 
 ### Sinoptik Değerlendirmeli Rapor
-![PDF çıktısı — sinoptik](screenshots/PDF-ciktisi_sinoptik_.png)
+![PDF çıktısı — sinoptik](screenshots/PDF-ciktisi(sinoptik).png)
 
 ### Standart Rapor
 ![PDF çıktısı](screenshots/PDF-ciktisi.png)
@@ -18,7 +18,7 @@ Zaman çizelgesi tabanlı arayüzden doğrudan **PDF çıktısı** üretir.
 ## Arayüz
 
 ### Doldurulmuş Rapor
-![MADKOM Rapor Arayüzü — hazır](screenshots/MADKOM-rapor-arayuzu_hazir_.png)
+![MADKOM Rapor Arayüzü — hazır](screenshots/MADKOM-rapor-arayuzu(hazir).png)
 
 ### Boş Arayüz
 ![MADKOM Rapor Arayüzü](screenshots/MADKOM-rapor-arayuzu.png)
@@ -42,10 +42,3 @@ Zaman çizelgesi tabanlı arayüzden doğrudan **PDF çıktısı** üretir.
 
 ### macOS
 `macOS/MADKOM editörü/` klasöründeki dosyaları çalıştırın.
-
----
-
-## Gereksinimler
-
-- Python 3.x
-- Bağımlılıklar: `pdf_generator.py`, `ui_editor.py`, `timeline_canvas.py`
