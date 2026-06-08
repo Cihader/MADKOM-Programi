@@ -1,7 +1,6 @@
 # MADKOM — Meteoroloji Analiz ve Tahmin Rapor Editörü
 
-Havalimanı meteoroloji müdürlükleri için geliştirilmiş masaüstü rapor hazırlama aracı.  
-Zaman çizelgesi tabanlı arayüzden doğrudan **PDF çıktısı** üretir.
+MADKOM (Meteoroloji Analiz ve Tahmin Raporu Editörü), havalimanı meteoroloji müdürlükleri tarafından kullanılan profesyonel bir masaüstü uygulamasıdır. Rüzgar, görüş, hadise, oraj/TS ve bulut gibi meteorolojik parametreleri interaktif bir zaman çizelgesi üzerinde blok tabanlı olarak düzenlemeye olanak tanır. Hazırlanan rapor; kurumsal başlık, sinoptik durum değerlendirmesi ve hava analizi bölümleriyle birlikte tek tıkla resmi **PDF formatın** dönüştürülür.
 
 ---
 
